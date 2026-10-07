@@ -1,0 +1,16 @@
+# footage-derived and generated data (not redistributed: the source video is third-party)
+data/
+work/
+*.mp4
+*.npy
+*.npz
+*.jpg
+*.png
+# TouchDesigner backup + stray files
+BEAR_COLLISION.1.toe
+MEMORY.md
+__pycache__/
+*.pyc
+.claude-flow/
+.claude/
+.swarm/
